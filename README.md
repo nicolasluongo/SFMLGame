@@ -8,4 +8,4 @@ We use the Visual Studio 2017 IDE in which we must include the external librarie
 
 ## Timeline
 
-* ** 20/05/2019** - *Project Start* - Manager creation
+*  20/05/2019 - *Project Start* - Manager creation
